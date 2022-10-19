@@ -5,7 +5,7 @@
  *
  * Return: Always 0
 */
-void time_table(void)
+times_table(void)
 {
 	int num, mult, prod;
 
