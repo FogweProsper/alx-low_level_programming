@@ -4,7 +4,7 @@
  * print_array - prints n elements of an array of intergers
  * Owned by Prospiano
  * @a: int to check
- * @n int to check
+ * @n: int to check
  * Return: 0 is success
 */
 void print_array(int *a, int n)
