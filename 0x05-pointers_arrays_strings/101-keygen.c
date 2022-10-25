@@ -6,6 +6,7 @@
  * main - Generate random valid passwords
  * Return: Always 0.
 */
+int main(void)
 {
 	char password[84];
 	int index = 0, sum = 0, diff_half1, diff_half2;
