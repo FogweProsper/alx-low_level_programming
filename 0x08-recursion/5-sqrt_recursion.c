@@ -11,7 +11,7 @@ int _sqrt_recursion(int n);
  * Return: if the num has natural sqrt - square root
  * if does not have - -1
 */
-int find_sqrt(int num, int root);
+int find_sqrt(int num, int root)
 {
 	if ((root * root) == num)
 		return (root);
